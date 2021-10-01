@@ -46,6 +46,7 @@ function Home() {
                     </tr>
                 )}
             </table><br />
+            <div>Hello This is Home Page</div>
             <div>
                 <button style={{ float: 'left', marginLeft: 10 }}
                     onClick={(e) => goToPreviousPage(e)}
