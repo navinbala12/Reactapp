@@ -15,7 +15,8 @@ const orgData = [
     { name: 'Karthi', likes: 'fish', age: '20' },
     { name: 'Vivek', likes: 'fish', age: '24' },
     { name: 'Prasana', likes: 'Mutton', age: '22' },
-    { name: 'SriRam', likes: 'fish', age: '21' }
+    { name: 'SriRam', likes: 'fish', age: '21' },
+    { name: 'Partha', likes: 'prawn', age: '29' },
   ]
 
 
