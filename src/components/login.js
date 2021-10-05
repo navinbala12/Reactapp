@@ -83,6 +83,11 @@ function Login() {
         Withdraw
       </button> */}
             <br />
+<<<<<<< .mine
+
+=======
+            <h1>This is Login Page ,Welcome</h1>
+>>>>>>> .theirs
             <form>
                 <label for="username">Username:</label><br />
                 <input type="text" id="username" name="username" value={name}
